@@ -1,4 +1,4 @@
-[![Header](https://github.com/AnnaIliuk/Test/commit/8be69cc3b6da2cd479e66d2cd503d5eb64ccc752#diff-d904d873ba105d82f8358d060b6a49d2509d5259acf09da3bf26bdb882a9af8d)]
+[![Header](https://github.com/AnnaIliuk/Test/blob/main/assets/bug.jpg)]
 ## I'm a beginner QA Engineer.
 ## My CV
 [Link to my CV](https://docs.google.com/document/d/1qg6IDGfgdFIdzpeSEQJG0UQ0-zqNx9bH/edit?usp=share_link&ouid=118108454540808204932&rtpof=true&sd=true)
