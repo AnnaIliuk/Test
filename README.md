@@ -16,7 +16,7 @@
 
 ### Testing Artefacts
 
-- [Checklists]
+- [Checklists](https://docs.google.com/spreadsheets/d/1hOGAE06nS6H9XMic1ESBqznznDhHx2E-/edit?usp=sharing&ouid=118108454540808204932&rtpof=true&sd=true)
 - [Test-Suites and Test-Cases]
 - [Bug-Reports](https://drive.google.com/file/d/1avS6e4kwaf8SE1j3sdBGU0kpp19w12e-/view?usp=sharing)
 - [SQL Queries](https://docs.google.com/document/d/1ZlZmOT2-zjcyZnK_JuXodAxkRF2wPCVJ/edit?usp=sharing&ouid=118108454540808204932&rtpof=true&sd=true)
