@@ -18,8 +18,8 @@
 
 - [Checklists]
 - [Test-Suites and Test-Cases]
-- [Bug-Reports]
-- [SQL Queries]
+- [Bug-Reports](https://drive.google.com/file/d/1avS6e4kwaf8SE1j3sdBGU0kpp19w12e-/view?usp=sharing)
+- [SQL Queries]()
 - [Postman Collections](https://www.postman.com/grey-shadow-651525/workspace/my-workspace/collection/23540048-e5ed0fbe-b00d-4cc4-a08f-33d27d4f1164?action=share&creator=23540048)
 
 ### Follow Me
