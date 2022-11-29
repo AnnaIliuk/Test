@@ -1,0 +1,69 @@
+anils@LAPTOP-24R6I4GJ MINGW64 /
+$ cd ~
+
+anils@LAPTOP-24R6I4GJ MINGW64 ~
+$ cd Git
+
+anils@LAPTOP-24R6I4GJ MINGW64 ~/Git
+$ mkdir test3
+
+anils@LAPTOP-24R6I4GJ MINGW64 ~/Git
+$ cd test3
+
+anils@LAPTOP-24R6I4GJ MINGW64 /test3
+$ touch 4
+
+anils@LAPTOP-24R6I4GJ MINGW64 ~/Git/test3
+$ touch 5
+
+anils@LAPTOP-24R6I4GJ MINGW64 ~/Git/test3
+$ touch 6
+
+anils@LAPTOP-24R6I4GJ MINGW64 /test3
+$ nano 4
+
+anils@LAPTOP-24R6I4GJ MINGW64 /test3
+$ nano 5
+
+anils@LAPTOP-24R6I4GJ MINGW64 /test3
+$ nano 6
+
+anils@LAPTOP-24R6I4GJ MINGW64 ~/Git/test3
+$ grep row2 5
+
+anils@LAPTOP-24R6I4GJ MINGW64 ~/Git/test3
+$ grep row 4 5 6 
+
+anils@LAPTOP-24R6I4GJ MINGW64 ~/Git/test3
+$ grep -c row 6
+
+anils@LAPTOP-24R6I4GJ MINGW64 ~/Git/test3
+$ find . -name 5
+
+anils@LAPTOP-24R6I4GJ MINGW64 ~/Git/test3
+$ find . -name 5 -delete -print
+
+anils@LAPTOP-24R6I4GJ MINGW64 ~/Git/test3
+$ echo test > 4
+
+anils@LAPTOP-24R6I4GJ MINGW64 ~/Git/test3
+$ echo fail > 4
+
+anils@LAPTOP-24R6I4GJ MINGW64 ~/Git/test3=
+$ ps aux
+
+anils@LAPTOP-24R6I4GJ MINGW64 ~/Git/test3
+$ kill 666
+
+anils@LAPTOP-24R6I4GJ MINGW64 ~/Git/test3
+$ ping artsiomrusau.com
+
+anils@LAPTOP-24R6I4GJ MINGW64 ~/Git/test3
+$ ping -c 5 artsiomrusau.com
+
+anils@LAPTOP-24R6I4GJ MINGW64 ~
+curl https://petstore.swagger.io?status=available,pending,sold
+
+anils@LAPTOP-24R6I4GJ MINGW64 ~
+curl -X POST  https://petstore.swagger.io/user/createUsersWithArray  --data "id=0" --data "username=string" --data "firstName=string" --data "lastName=string" --data "email=string" --data "password=string" --data "phone=string" --data "userStatus=0"
+
