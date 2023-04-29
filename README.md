@@ -1,7 +1,7 @@
 [![Header](https://github.com/AnnaIliuk/Test/blob/main/assets/bug.jpg)]
 ## I'm a beginner QA Engineer.
 ## My CV
-[Link to my CV](https://docs.google.com/document/d/1qg6IDGfgdFIdzpeSEQJG0UQ0-zqNx9bH/edit?usp=share_link&ouid=118108454540808204932&rtpof=true&sd=true)
+[Link to my CV](ht)tps://drive.google.com/file/d/1mEQtfzLBmrCPhBwhK5wI6LvHM38sh_rx/view?usp=share_link)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
